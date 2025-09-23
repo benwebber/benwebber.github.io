@@ -1,3 +1,6 @@
+[notabene](https://github.com/benwebber/notabene/) (`nb`)
+:   A fast linter for changelogs.
+
 [sqlite3-uuid](https:///github.com/benwebber/sqlite3-uuid/)
 :   An [SQLite](https://sqlite.org/) extension that adds UUID functions like `uuid1()` and `uuid4()`.
 
