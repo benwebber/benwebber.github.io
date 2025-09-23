@@ -7,3 +7,7 @@
     --primary: theme('colors.pink.500');
   }
 }
+
+.tag {
+  @apply rounded-sm bg-zinc-400 mx-1 py-0.5 px-1 text-xs text-zinc-700;
+}
