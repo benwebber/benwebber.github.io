@@ -1,16 +1,16 @@
-[chp8](https://github.com/benwebber/chp8) <span class="tag">Rust</span>
+[chp8](https://github.com/benwebber/chp8) <span class="tag lang-rust">Rust</span>
 :   A CHIP-8 implementation.
 
-[notabene](https://github.com/benwebber/notabene/) (`nb`) <span class="tag">Rust</span>
+[notabene](https://github.com/benwebber/notabene/) (`nb`) <span class="tag lang-rust">Rust</span>
 :   A fast linter for changelogs.
 
-[sqlite3-uuid](https:///github.com/benwebber/sqlite3-uuid/) <span class="tag">C</span>
+[sqlite3-uuid](https:///github.com/benwebber/sqlite3-uuid/) <span class="tag lang-c">C</span>
 :   An [SQLite](https://sqlite.org/) extension that adds UUID functions like `uuid1()` and `uuid4()`.
 
-[tiddlywiki-dnd](https://benwebber.github.io/tiddlywiki-dnd/) <span class="tag">TypeScript</span>
+[tiddlywiki-dnd](https://benwebber.github.io/tiddlywiki-dnd/) <span class="tag lang-typescript">TypeScript</span>
 :   A [TiddlyWiki] plugin for managing a <cite>Dungeons & Dragons</cite> 5e. campaign.
 
-[tiddlywiki-plugins](https:///benwebber.github.io/tiddlywiki-plugins/) <span class="tag">TypeScript</span>
+[tiddlywiki-plugins](https:///benwebber.github.io/tiddlywiki-plugins/) <span class="tag lang-typescript">TypeScript</span>
 :   A collection of small, minimalist plugins for [TiddlyWiki].
     Includes [motion](https://benwebber.github.io/tiddlywiki-plugins/#motion:tiddlywiki-plugins%20motion), a plugin to navigate your wiki with Vim-like keyboard shortcuts.
 

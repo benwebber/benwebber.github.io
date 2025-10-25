@@ -9,5 +9,17 @@
 }
 
 .tag {
-  @apply rounded-sm bg-zinc-400 mx-1 py-0.5 px-1 text-xs text-zinc-700;
+  @apply rounded-sm bg-zinc-400 mx-1 py-0.5 px-1 text-xs text-zinc-100 dark:text-zinc-900;
+}
+
+.lang-rust {
+  background-color: #dea584;
+}
+
+.lang-c {
+  background-color: #555555;
+}
+
+.lang-typescript {
+  background-color: #3178c6;
 }
