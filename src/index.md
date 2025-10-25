@@ -1,3 +1,6 @@
+[chp8](https://github.com/benwebber/chp8) <span class="tag">Rust</span>
+:   A CHIP-8 implementation.
+
 [notabene](https://github.com/benwebber/notabene/) (`nb`) <span class="tag">Rust</span>
 :   A fast linter for changelogs.
 
