@@ -4,6 +4,9 @@
 [notabene](https://github.com/benwebber/notabene/) (`nb`) <span class="tag lang-rust">Rust</span>
 :   A fast linter for changelogs.
 
+[protosearch](https://github.com/benwebber/protosearch/) (`protoc-gen-protosearch`) <span class="tag lang-rust">Rust</span>
+:   A protobuf compiler plugin to generate Elasticsearch document mappings from message definitions.
+
 [sqlite3-uuid](https:///github.com/benwebber/sqlite3-uuid/) <span class="tag lang-c">C</span>
 :   An [SQLite](https://sqlite.org/) extension that adds UUID functions like `uuid1()` and `uuid4()`.
 
