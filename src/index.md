@@ -17,4 +17,8 @@
 :   A collection of small, minimalist plugins for [TiddlyWiki].
     Includes [motion](https://benwebber.github.io/tiddlywiki-plugins/#motion:tiddlywiki-plugins%20motion), a plugin to navigate your wiki with Vim-like keyboard shortcuts.
 
+[tunnelblickctl](https://github.com/benwebber/tunnelblickctl) <span class="tag lang-rust">Rust</span> <span class="tag lang-typescript">TypeScript</span>
+:   Command-line interface for [Tunnelblick].
+
 [TiddlyWiki]: https://tiddlywiki.com/
+[Tunnelblick]: https://tunnelblick.net/
