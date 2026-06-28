@@ -1,6 +1,9 @@
 [chp8](https://github.com/benwebber/chp8) <span class="tag lang-rust">Rust</span>
 :   A CHIP-8 implementation.
 
+[ferth](https://github.com/benwebber/ferth) <span class="tag lang-rust">Rust</span> <span class="tag lang-forth">Forth</span>
+:   A safe, native-sized Forth.
+
 [notabene](https://github.com/benwebber/notabene/) (`nb`) <span class="tag lang-rust">Rust</span>
 :   A fast linter for changelogs.
 
